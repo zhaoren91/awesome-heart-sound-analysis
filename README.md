@@ -32,8 +32,7 @@ Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). 
 |[A review of intelligent systems for heart sound signal analysis](https://www.tandfonline.com/doi/abs/10.1080/03091902.2017.1382584) |Journal of Medical Engineering & Technology |2017 |
 |[Recent advances in heart sound analysis](https://iopscience.iop.org/article/10.1088/1361-6579/aa7ec8/meta) |Physiological Measurement |2017 |
 |[Heart sound data acquisition and preprocessing techniques: A review](https://www.igi-global.com/chapter/heart-sound-data-acquisition-and-preprocessing-techniques/251149) |IGI Global |2020 |
-|[Application of soft computing techniques to heart sound classification: A review of the decade](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003003496-7/application-soft-computing-techniques-heart-sound-classification-babita-majhi-aarti-kashyap) |Soft Computing
-Applications and Techniques in Healthcare |2020 |
+|[Application of soft computing techniques to heart sound classification: A review of the decade](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003003496-7/application-soft-computing-techniques-heart-sound-classification-babita-majhi-aarti-kashyap) |Soft Computing Applications and Techniques in Healthcare |2020 |
 |[Algorithms for automatic analysis and classification of heart sounds – A systematic review](https://ieeexplore.ieee.org/abstract/document/8586788) |IEEE Access |2018 |
 
 
