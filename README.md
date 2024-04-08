@@ -3,10 +3,10 @@
 This repository is a collection of academic articles, publiched methodologies, and datasets, on the topic of **heart sound analysis**.
 
 Content
-- Surveys
-- Taxonomy
-- Datasets
-- Publicly-available codes
+- [Surveys](#Surveys)
+- [Taxonomy](#Taxonomy)
+- [Datasets](#Datasets)
+- [Publicly-available codes](#Publicly-available-codes)
 
 
 
