@@ -1,6 +1,6 @@
 # A comprehensive survey on heart sound analysis in the deep learning era
 
-This repository is a collection of academic articles, publiched methodologies, and datasets, on the topic of **heart sound analysis**.
+This repository is a collection of academic articles, publiched methodologies, and datasets during 2017–2022, on the topic of **heart sound analysis**.
 
 Content
 - [Surveys](#Surveys)
@@ -51,4 +51,9 @@ Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). 
 
 ## Publicly-available codes
 
-
+| Paper Title | Code Link | Program Language | Model  |
+|----------|----------|----------|----------|
+|[Classification of heart sound signal using multiple features](https://www.mdpi.com/2076-3417/8/12/2344) |https://github.com/yaseen21khan/Classification-of-Heart-Sound-Signal-Using-Multiple-Features-|Matlab|DNN|
+|[Towards domain invariant heart sound abnormality detection using learnable filterbanks](https://ieeexplore.ieee.org/abstract/document/8977359) |https://github.com/mhealthbuet/heartnet|Python|CNN|
+|[A robust interpretable deep learning classifier for heart anomaly detection without segmentation](https://ieeexplore.ieee.org/abstract/document/9210180) |https://github.com/mHealthBuet/CepsNET|Python|ResNet|
+|[Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort](https://www.frontiersin.org/articles/10.3389/fcvm.2023.1170804/full) |https://github.com/uit-hdl/heart-sound-classification|Matlab|--|
