@@ -37,6 +37,7 @@ Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). 
 
 
 ## Taxonomy
+[![taxonomy](taxonomy.png)](https://arxiv.org/abs/2301.09362)
 
 ## Datasets
 
