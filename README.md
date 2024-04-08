@@ -11,7 +11,6 @@ Content
 ## Citation
 Please read and cite our paper:
 
-```Python
 @article{ren2023comprehensive,
   title={A comprehensive survey on heart sound analysis in the deep learning era},
   author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W},
