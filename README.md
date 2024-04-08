@@ -8,15 +8,21 @@ Content
 - Datasets
 - Publicly-available codes
 
-## Citation
-Please read and cite our paper:
 
+
+## Citation
+Please read and cite our paper: 
+
+Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). [A comprehensive survey on heart sound analysis in the deep learning era](https://arxiv.org/abs/2301.09362). arXiv preprint arXiv:2301.09362.
+
+```
 @article{ren2023comprehensive,
   title={A comprehensive survey on heart sound analysis in the deep learning era},
   author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W},
   journal={arXiv preprint arXiv:2301.09362},
   year={2023}
 }
+```
 
 ## Surveys
 | Paper Title | Venue | Year |
