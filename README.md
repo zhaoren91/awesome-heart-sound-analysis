@@ -11,15 +11,14 @@ Content
 ## Surveys
 | Paper Title | Venue | Year |
 |----------|----------|----------|
-|Multidimensional analytical study of heart sounds: A review|International Journal Bioautomation|2015|
+|[Multidimensional analytical study of heart sounds: A review](https://biomed.bas.bg/bioautomation/2015/vol_19.3/files/19.3_07.pdf)|International Journal Bioautomation|2015|
 |Phonocardiogram signal analysis-practices, trends and challenges: A critical review | IEMCON|2015 |
 |A review of intelligent systems for heart sound signal analysis |Journal of Medical Engineering & Technology |2017 |
 |Recent advances in heart sound analysis |Physiological Measurement |2017 |
 |Heart sound data acquisition and preprocessing techniques: A review |IGI Global |2020 |
 |Application of soft computing techniques to heart sound classification: A review of the decade |Soft Computing
 Applications and Techniques in Healthcare |2020 |
-|Algorithms for automatic analysis and classification of heart sounds – A systematic
-review |IEEE Access |2018 |
+|Algorithms for automatic analysis and classification of heart sounds – A systematic review |IEEE Access |2018 |
 
 
 ## Taxonomy
