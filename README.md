@@ -40,6 +40,14 @@ Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). 
 [![taxonomy](taxonomy.png)](https://arxiv.org/abs/2301.09362)
 
 ## Datasets
+| Dataset | Challenge | Task |
+|----------|----------|----------|
+|[PASCAL Database](http://www.peterjbentley.com/heartchallenge/index.html)|[PASCAL Challenge](http://www.peterjbentley.com/heartchallenge/index.html)|Dataset A: Normal, Murmur, Extra Heart Sound, Artifact; Dataset B: Normal, Murmur, Extrasystole|
+|[PhysioNet/CinC Database](https://iopscience.iop.org/article/10.1088/0967-3334/37/12/2181/meta)|[PhysioNet/CinC Challenge 2016](https://www.ahajournals.org/doi/abs/10.1161/01.cir.101.23.e215)|Normal, Abnormal, Too noisy or ambiguous|
+|[HSS](https://ieeexplore.ieee.org/abstract/document/8910340)|[ComParE Challenge 2018](https://www.isca-archive.org/interspeech_2018/schuller18_interspeech.pdf)|Normal, Mild, Moderate/Severe|
+|[Data on GitHub](https://www.mdpi.com/2076-3417/8/12/2344)|--|Normal, AS, MR, MS, MVP|
+|Michigan Heart Sound Database, link [1](https://open.umich.edu/find/open-educational-resources/medical/heart-sound-murmur-library) and [2](https://www.med.umich.edu/lrc/psb_open/html/repo/primer_heartsound/primer_heartsound.html)|--|Normal, Pathological|
+|[CirCor DigiScope Database](https://ieeexplore.ieee.org/abstract/document/9658215)|[George B. Moody PhysioNet Challenge 2022](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000324)|Normal, abnormal; presence, absence, or unclear cases of murmurs|
 
 ## Publicly-available codes
 
