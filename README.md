@@ -1,5 +1,6 @@
 # A comprehensive survey on heart sound analysis in the deep learning era
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2301.09362-b31b1b.svg)](https://arxiv.org/abs/2301.09362)
 
 This repository is a collection of academic articles, publiched methodologies, and datasets during 2017–2022, on the topic of **heart sound analysis**.
