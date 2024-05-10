@@ -53,7 +53,7 @@ OR
 }
 ```
 
-## Surveys
+## Existing Surveys
 | Paper Title | Venue | Year |
 |----------|----------|----------|
 |[Multidimensional analytical study of heart sounds: A review](https://biomed.bas.bg/bioautomation/2015/vol_19.3/files/19.3_07.pdf)|International Journal Bioautomation|2015|
