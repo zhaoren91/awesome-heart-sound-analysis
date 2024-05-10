@@ -8,6 +8,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/zhaoren91/awesome-heart-sound-analysis?color=yellow&label=Stars)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhaoren91%2Fawesome-heart-sound-analysis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+[![framework](heart_sound-framework_v1.png)](https://arxiv.org/abs/2301.09362)
+
 This repository is a collection of academic articles, publiched methodologies, and datasets during 2017–2022, on the topic of **heart sound analysis**.
 
 Content
