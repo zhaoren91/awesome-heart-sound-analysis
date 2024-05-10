@@ -5,7 +5,7 @@
 
 This repository is a collection of academic articles, publiched methodologies, and datasets during 2017–2022, on the topic of **heart sound analysis**.
 
-The paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by [![IEEE Computational Intelligence Magazine]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) (IF 2024: 9) in 2024.
+The paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) (IF 2024: 9) in 2024.
 
 Content
 - [Surveys](#Surveys)
