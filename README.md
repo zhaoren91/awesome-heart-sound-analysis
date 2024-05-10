@@ -22,7 +22,7 @@ Content
 
 📰 2024-05-05: Our paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) (IF 2024: 9) in 2024.
 
-## Citation
+## 🔍 Citation
 
 If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
 
