@@ -79,3 +79,15 @@ OR
 |[Towards domain invariant heart sound abnormality detection using learnable filterbanks](https://ieeexplore.ieee.org/abstract/document/8977359) |https://github.com/mhealthbuet/heartnet|Python|CNN|
 |[A robust interpretable deep learning classifier for heart anomaly detection without segmentation](https://ieeexplore.ieee.org/abstract/document/9210180) |https://github.com/mHealthBuet/CepsNET|Python|ResNet|
 |[Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort](https://www.frontiersin.org/articles/10.3389/fcvm.2023.1170804/full) |https://github.com/uit-hdl/heart-sound-classification|Matlab|--|
+
+
+----------
+**Disclaimer**
+
+Feel free to contact us if you have any queries or exciting news on this topic. In addition, we welcome all researchers to contribute to this repository and further contribute to the knowledge of the field.
+
+If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
+
+
+[![HitCount](https://hits.dwyl.com/zhaoren91/awesome-heart-sound-analysis.svg?style=flat-square)](http://hits.dwyl.com/zhaoren91/awesome-heart-sound-analysis)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhaoren91.awesome-heart-sound-analysis)
