@@ -21,7 +21,7 @@ Content
 
 ## 🔖 News!!!
 
-📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
+📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 
 📰 2024-05-05: Our paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) (IF 2024: 9) in 2024.
 
@@ -55,6 +55,10 @@ OR
   year={2023}
 }
 ```
+
+## Newest Works on Heart Sound Anaylsis
+[Exploring Pre-trained General-purpose Audio Representations for Heart Murmur Detection](https://arxiv.org/abs/2404.17107)
+
 
 ## Existing Surveys
 
@@ -91,7 +95,6 @@ OR
 |[Towards domain invariant heart sound abnormality detection using learnable filterbanks](https://ieeexplore.ieee.org/abstract/document/8977359) |https://github.com/mhealthbuet/heartnet|Python|CNN|
 |[A robust interpretable deep learning classifier for heart anomaly detection without segmentation](https://ieeexplore.ieee.org/abstract/document/9210180) |https://github.com/mHealthBuet/CepsNET|Python|ResNet|
 |[Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort](https://www.frontiersin.org/articles/10.3389/fcvm.2023.1170804/full) |https://github.com/uit-hdl/heart-sound-classification|Matlab|--|
-
 
 ----------
 **Disclaimer**
