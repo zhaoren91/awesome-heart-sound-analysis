@@ -57,7 +57,7 @@ OR
 ```
 
 ## Newest Works on Heart Sound Anaylsis
-> [Exploring Pre-trained General-purpose Audio Representations for Heart Murmur Detection](https://arxiv.org/abs/2404.17107)
+* [Exploring Pre-trained General-purpose Audio Representations for Heart Murmur Detection](https://arxiv.org/abs/2404.17107)
 
 
 ## Existing Surveys
