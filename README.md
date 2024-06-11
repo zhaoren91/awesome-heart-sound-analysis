@@ -2,7 +2,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2301.09362-b31b1b.svg)](https://arxiv.org/abs/2301.09362)
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Official%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fzhaoren.one/awesome-heart-sound-analysis%2F)](https://zhaoren.one/awesome-heart-sound-analysis/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 ![GitHub stars](https://img.shields.io/github/stars/zhaoren91/awesome-heart-sound-analysis?color=yellow&label=Stars)
