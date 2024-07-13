@@ -22,34 +22,39 @@ Content
 
 📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 
-📰 2024-05-05: Our paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207) (IF 2024: 9) in 2024.
+📰 2024-07-13: Our paper **A comprehensive survey on heart sound analysis in the deep learning era** has been published in [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/document/10595492) (IF 2024: 9) in 2024.
+
+📰 2024-05-05: Our paper **A comprehensive survey on heart sound analysis in the deep learning era** was accepted by IEEE Computational Intelligence Magazine (IF 2024: 9) in 2024.
 
 ## 🔍 Citation
 
 If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
 
-Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2301.09362-b31b1b.svg)](https://arxiv.org/abs/2301.09362)
+Please read and cite our paper: 
 
->Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). A comprehensive survey on heart sound analysis in the deep learning era. IEEE Computational Intelligence Magazine, accepted, to appear.
+>Z. Ren, Y. Chang, T. T. Nguyen, Y. Tan, K. Qian and B. W. Schuller, [A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era](https://ieeexplore.ieee.org/document/10595492), in IEEE Computational Intelligence Magazine, vol. 19, no. 3, pp. 42-57, Aug. 2024, doi: 10.1109/MCI.2024.3401309.
 
 ```
-@article{ren2023comprehensive,
-  title={A comprehensive survey on heart sound analysis in the deep learning era},
-  author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W},
-  journal={IEEE Computational Intelligence Magazine},
-  year={2024}
-  note={accepted, to appear}
+@article{ren2024comprehensive,
+  author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W.},
+  journal={IEEE Computational Intelligence Magazine}, 
+  title={A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era}, 
+  year={2024},
+  volume={19},
+  number={3},
+  pages={42-57},
+  doi={10.1109/MCI.2024.3401309},
 }
 ```
 
-OR
+OR [![arXiv](https://img.shields.io/badge/arXiv-2301.09362-b31b1b.svg)](https://arxiv.org/abs/2301.09362)
 
 >Ren, Z., Chang, Y., Nguyen, T. T., Tan, Y., Qian, K., & Schuller, B. W. (2023). [A comprehensive survey on heart sound analysis in the deep learning era](https://arxiv.org/abs/2301.09362). arXiv preprint arXiv:2301.09362.
 
 ```
 @article{ren2023comprehensive,
   title={A comprehensive survey on heart sound analysis in the deep learning era},
-  author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W},
+  author={Ren, Zhao and Chang, Yi and Nguyen, Thanh Tam and Tan, Yang and Qian, Kun and Schuller, Bj{\"o}rn W.},
   journal={arXiv preprint arXiv:2301.09362},
   year={2023}
 }
